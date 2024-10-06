@@ -1,6 +1,6 @@
 # Snapverse 
 * Live URL: https://snapverseon.vercel.app/
-Snapverse is a photo-sharing platform designed for photography enthusiasts to snap, share, and explore beautiful moments. This application provides a vibrant community for users to connect, share their photography, and enhance their creative expressions.
+* Snapverse is a photo-sharing platform designed for photography enthusiasts to snap, share, and explore beautiful moments. This application provides a vibrant community for users to connect, share their photography, and enhance their creative expressions.
 
 ## Features
 
